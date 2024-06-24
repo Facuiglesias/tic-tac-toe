@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.borderGradient-y {
+  background: linear-gradient(#222, #222) 50% 50% / calc(100% - 2px)
+      calc(100% - 2px) no-repeat,
+    linear-gradient(90deg, transparent 0%, #ffffff 50%, transparent 100%);
+  border-radius: 0px;
+  padding: 1px;
+  box-sizing: border-box;
+}
+
+.borderGradient-x {
+  background: linear-gradient(#222, #222) 50% 50% / calc(100% - 2px)
+      calc(100% - 2px) no-repeat,
+    linear-gradient(0deg, transparent 0%, #ffffff 50%, transparent 100%);
+  border-radius: 0px;
+  padding: 1px;
+  box-sizing: border-box;
+}
+
+.borderGradient-full {
+  background: linear-gradient(#222, #222) 50% 50% / calc(100% - 2px)
+      calc(100% - 2px) no-repeat,
+    linear-gradient(
+      90deg,
+      rgba(184, 165, 229, 0) 0%,
+      #ffffff 50%,
+      rgba(184, 165, 229, 0) 100%
+    ),
+    linear-gradient(0deg, transparent 0%, #ffffff 50%, transparent 100%);
+  border-radius: 0px;
+  padding: 1px;
+  box-sizing: border-box;
+}
+
+.bg-gradient__effect {
+  background: linear-gradient(to bottom, #22b3e9 20%, #e96902, #e96902);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
