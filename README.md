@@ -4,7 +4,7 @@
 
 ## :hammer: Funcionalidades del proyecto
 
--`Interfaz Reactiva`: La aplicación está construida con React, lo que proporciona una experiencia de usuario interactiva y dinámica.
+- `Interfaz Reactiva`: La aplicación está construida con React, lo que proporciona una experiencia de usuario interactiva y dinámica.
 
 - `Diseño Atractivo`: Utiliza Tailwind CSS para estilos rápidos y consistentes, incluyendo bordes y sombras personalizados. 
 
