@@ -1,8 +1,8 @@
-<em>Tic Tac Toe </em>
+# Tic Tac Toe 
 
-Esta es una aplicación de Tic Tac Toe (Tres en Raya) desarrollada con React y Tailwind CSS. La aplicación permite a dos jugadores alternar turnos para colocar sus símbolos ("X" o "O") en una cuadrícula de 3x3. El juego detecta automáticamente cuando hay un ganador o si el juego termina en empate. También proporciona la opción de reiniciar el juego una vez que se determina un ganador o un empate.
+<em> Esta es una aplicación de Tic Tac Toe (Tres en Raya) desarrollada con React y Tailwind CSS. La aplicación permite a dos jugadores alternar turnos para colocar sus símbolos ("X" o "O") en una cuadrícula de 3x3. El juego detecta automáticamente cuando hay un ganador o si el juego termina en empate. También proporciona la opción de reiniciar el juego una vez que se determina un ganador o un empate. </em>
 
-## :hammer:Funcionalidades del proyecto
+## :hammer: Funcionalidades del proyecto
 
 -`Interfaz Reactiva`: La aplicación está construida con React, lo que proporciona una experiencia de usuario interactiva y dinámica.
 
