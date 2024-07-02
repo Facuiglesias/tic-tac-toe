@@ -18,6 +18,6 @@
 
 ## Tecnologías Utilizadas
 
-React: Biblioteca de JavaScript para construir interfaces de usuario.
-Tailwind CSS: Framework de CSS para diseño y estilización.
-Vite: Herramienta de desarrollo rápida para proyectos de frontend.
+- `React`: Biblioteca de JavaScript para construir interfaces de usuario.
+- `Tailwind CSS`: Framework de CSS para diseño y estilización.
+- `Vite`: Herramienta de desarrollo rápida para proyectos de frontend.
