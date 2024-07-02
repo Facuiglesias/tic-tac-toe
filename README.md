@@ -6,15 +6,15 @@
 
 -`Interfaz Reactiva`: La aplicación está construida con React, lo que proporciona una experiencia de usuario interactiva y dinámica.
 
--`Diseño Atractivo`: Utiliza Tailwind CSS para estilos rápidos y consistentes, incluyendo bordes y sombras personalizados. 
+- `Diseño Atractivo`: Utiliza Tailwind CSS para estilos rápidos y consistentes, incluyendo bordes y sombras personalizados. 
 
--`Cambio de Turnos`: Alterna automáticamente los turnos entre los jugadores "X" y "O". 
+- `Cambio de Turnos`: Alterna automáticamente los turnos entre los jugadores "X" y "O". 
 
--`Detección de Ganador`: Verifica todas las combinaciones ganadoras posibles y declara un ganador cuando se cumple alguna de ellas. 
+- `Detección de Ganador`: Verifica todas las combinaciones ganadoras posibles y declara un ganador cuando se cumple alguna de ellas. 
 
--`Detección de Empate`: Identifica cuando el tablero está lleno y no hay ganador, declarando un empate. 
+- `Detección de Empate`: Identifica cuando el tablero está lleno y no hay ganador, declarando un empate. 
 
--`Reinicio del Juego`: Incluye una opción para reiniciar el juego después de que se haya determinado un ganador o un empate.
+- `Reinicio del Juego`: Incluye una opción para reiniciar el juego después de que se haya determinado un ganador o un empate.
 
 ## Tecnologías Utilizadas
 
